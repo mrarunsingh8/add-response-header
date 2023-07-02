@@ -1,5 +1,5 @@
 {
-  "name": "add-response-header",
+  "name": "add-response-header-middleware",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrarunsingh8/add-response-header.git"
+    "url": "git+https://github.com/mrarunsingh8/add-response-header-middleware.git"
   },
   "author": "Arun Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrarunsingh8/add-response-header/issues"
+    "url": "https://github.com/mrarunsingh8/add-response-header-middleware/issues"
   },
-  "homepage": "https://github.com/mrarunsingh8/add-response-header#readme",
+  "homepage": "https://github.com/mrarunsingh8/add-response-header-middleware#readme",
   "dependencies": {
     "uuid": "^9.0.0"
   }
